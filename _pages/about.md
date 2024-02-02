@@ -16,8 +16,10 @@ My experience at the University of Sydney has greatly enriched my knowledge and 
 
 In the future, I hope to translate my academic achievements into practical applications. I aim not only to contribute to the academic world but also to promote the value and importance of philosophy in broader society through education and public service. I believe that understanding philosophy enables us to better comprehend ourselves and our relationship with the world.
 
-My cute cat : UU
+My cute cat 🐈‍⬛ : UU
 ======
-<p align="center">
-  <img src="images/uu.png" alt="可爱的灰色猫咪坐在电脑上" width="50%"/>
-</p>
+{% gallery %}
+![Image 1](images/uu.png)
+![Image 2](images/me.png)
+![Image 3](images/qq.png)
+{% endgallery %}
