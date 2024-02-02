@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About me 🐧"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello everyone, my name is Zhuoyao Yang. I am a female undergraduate student majoring in philosophy at the University of Sydney. My academic journey is a deep dive into the exploration of human thought and the nature of existence. In this challenging and enlightening field, I am dedicated to deepening my understanding of the history, theories, and practices of philosophy daily.
+Hello everyone, my name is Zhuoyao Yang 🐧. I am a female undergraduate student majoring in philosophy at the University of Sydney. My academic journey is a deep dive into the exploration of human thought and the nature of existence. In this challenging and enlightening field, I am dedicated to deepening my understanding of the history, theories, and practices of philosophy daily.
 
 My passion for philosophy began in high school, driven by a curiosity about human behavior and ways of thinking. Over time, this curiosity transformed into a desire to understand the world and our place in it more profoundly. Choosing to study philosophy at the University of Sydney was a decision to gain more specialized and systematic training in this field.
 
