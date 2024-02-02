@@ -18,4 +18,4 @@ In the future, I hope to translate my academic achievements into practical appli
 
 My cute cat : UU
 ======
-![这是一张图片](/images/UU.png)
+![这是一张图片](/images/me.png)
