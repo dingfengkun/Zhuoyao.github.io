@@ -21,10 +21,10 @@ My cute cat 🐈‍⬛ : UU
 
 <div class="gallery">
   <a target="_blank" href="images/qq.png">
-    <img src="thumbnail_image1.jpg" alt="Description">
+    <img src="images/qq.png" alt="Description">
   </a>
-  <a target="_blank" href="images/qq.png">
-    <img src="thumbnail_image2.jpg" alt="Description">
+  <a target="_blank" href="images/uu.png">
+    <img src="images/uu.png" alt="Description">
   </a>
   <!-- 更多图片 -->
 </div>
