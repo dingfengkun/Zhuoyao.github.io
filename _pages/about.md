@@ -18,8 +18,13 @@ In the future, I hope to translate my academic achievements into practical appli
 
 My cute cat 🐈‍⬛ : UU
 ======
-{% gallery %}
-![Image 1](images/uu.png)
-![Image 2](images/me.png)
-![Image 3](images/qq.png)
-{% endgallery %}
+
+<div class="gallery">
+  <a target="_blank" href="images/qq.png">
+    <img src="thumbnail_image1.jpg" alt="Description">
+  </a>
+  <a target="_blank" href="images/qq.png">
+    <img src="thumbnail_image2.jpg" alt="Description">
+  </a>
+  <!-- 更多图片 -->
+</div>

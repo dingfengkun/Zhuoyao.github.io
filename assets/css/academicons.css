@@ -325,3 +325,14 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+
+.gallery {
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;
+}
