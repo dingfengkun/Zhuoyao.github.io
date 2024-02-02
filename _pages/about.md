@@ -19,5 +19,5 @@ In the future, I hope to translate my academic achievements into practical appli
 My cute cat : UU
 ======
 <p align="center">
-  <img src="/images/uu.png" alt="可爱的灰色猫咪坐在电脑旁" width="50%"/>
+  <img src="images/uu.png" alt="可爱的灰色猫咪坐在电脑上" width="50%"/>
 </p>
