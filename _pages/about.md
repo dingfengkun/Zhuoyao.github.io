@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hello everyone, my name is Zhuoyao Yang. I am a female undergraduate student majoring in philosophy at the University of Sydney. My academic journey is a deep dive into the exploration of human thought and the nature of existence. In this challenging and enlightening field, I am dedicated to deepening my understanding of the history, theories, and practices of philosophy daily.
+
+My passion for philosophy began in high school, driven by a curiosity about human behavior and ways of thinking. Over time, this curiosity transformed into a desire to understand the world and our place in it more profoundly. Choosing to study philosophy at the University of Sydney was a decision to gain more specialized and systematic training in this field.
+
+My experience at the University of Sydney has greatly enriched my knowledge and broadened my perspectives. I have engaged in a variety of courses covering topics from classical to contemporary philosophy. Additionally, I actively participate in extracurricular activities like philosophy clubs and seminars, allowing me to engage deeply with like-minded peers and professors.
+
+In the future, I hope to translate my academic achievements into practical applications. I aim not only to contribute to the academic world but also to promote the value and importance of philosophy in broader society through education and public service. I believe that understanding philosophy enables us to better comprehend ourselves and our relationship with the world.
 
 A data-driven personal website
 ======

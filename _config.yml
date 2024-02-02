@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Zhuoyao Yang / Site Title"
+locale                   : "en-AU"
+title                    : "杨焯尧 / Zhuoyao Yang"
 title_separator          : "-"
 name                     : &name "Zhuoyao Yang"
 description              : &description "personal description"
