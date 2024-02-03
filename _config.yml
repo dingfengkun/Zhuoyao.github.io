@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhuoyao Yang"
-  avatar           : "me.png"
+  avatar           : "/image/me.png"
   bio              : "Human,but want to become a penguin"
   location         : "USYD"
   employer         :
