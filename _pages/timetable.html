@@ -7,4 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
-<iframe src="https://calendar.google.com/calendar/embed?src=rckbq9dpcdjjlehoe02e8hdtcq9lnirs%40import.calendar.google.com&ctz=Asia%2FHong_Kong" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<!--<iframe src="https://calendar.google.com/calendar/embed?src=rckbq9dpcdjjlehoe02e8hdtcq9lnirs%40import.calendar.google.com&ctz=Asia%2FHong_Kong" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>-->
+<div id="calendar-container"></div>
+
+<script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function() {
+        var iframe = document.createElement('iframe');
+        iframe.style.border = "0";
+        iframe.width = "800";
+        iframe.height = "600";
+        iframe.frameBorder = "0";
+        iframe.scrolling = "no";
+        iframe.src = "https://calendar.google.com/calendar/embed?src=rckbq9dpcdjjlehoe02e8hdtcq9lnirs%40import.calendar.google.com&ctz=Asia%2FHong_Kong";
+        document.getElementById('calendar-container').appendChild(iframe);
+    });
+</script>
